@@ -44,29 +44,29 @@ Los problemas concretos que te han pedido resolver son:
 
    - Asegurar que los tipos de datos (fechas, valores monetarios) sean consistentes en todos los archivos. **OK**
 
-   - Tratar los valores nulos y eliminar filas o columnas irrelevantes.
+   - Tratar los valores nulos y eliminar filas o columnas irrelevantes. **OK**
 
 3. **Unión de los Dataframes:**
 
-   - Unir los dataframes de todos los archivos para crear un solo dataframe consolidado.
+   - Unir los dataframes de todos los archivos para crear un solo dataframe consolidado. **OK**
 
-   - Verificar la existencia de duplicados y corregir cualquier inconsistencia en los datos.
+   - Verificar la existencia de duplicados y corregir cualquier inconsistencia en los datos. **OK**
 
 ## Fase 2: Limpieza de Datos
 
 1. **Tratamiento de Valores Nulos:**
 
-   - Identificar y manejar los valores nulos: decidir si se deben rellenar, eliminar o imputar según el contexto.
+   - Identificar y manejar los valores nulos: decidir si se deben rellenar, eliminar o imputar según el contexto. **OK**
 
 2. **Corrección de Formatos:**
 
-   - Convertir valores monetarios a formato numérico, eliminando símbolos y asegurando que todas las cifras sean comparables.
+   - Convertir valores monetarios a formato numérico, eliminando símbolos y asegurando que todas las cifras sean comparables. **OK**
 
-   - Asegurarse de que las fechas estén en un formato uniforme y puedan ser fácilmente manipuladas para análisis temporal.
+   - Asegurarse de que las fechas estén en un formato uniforme y puedan ser fácilmente manipuladas para análisis temporal. **OK**
 
 3. **Detección y Corrección de Errores en Categorizaciones:**
 
-   - Revisar posibles inconsistencias en las categorías económicas (errores tipográficos, variaciones en los nombres) y unificarlas.
+   - Revisar posibles inconsistencias en las categorías económicas (errores tipográficos, variaciones en los nombres) y unificarlas. **OK**
 
 ## Fase 3: Análisis Exploratorio de Datos (EDA)
 
