@@ -18,8 +18,11 @@ Aunque carecemos de información para poder sacar conclusiones 100% fiables, hem
 ## 🗂️ Estructura del Proyecto
 
 ├── Data/                      # Enlace a google Drive con todos los datos en csv.
+
 ├──1PROYECTO2_limpiezadatos/                       # archivo ipynb donde se han limpiado los datos de las bases de datos de cada año por separado.
+
 ├──2.PROYECTO2_union                      # Archico ipynb con la unión de todos los años en un único dataframe.
+
 ├──3.PROYECTO2_EDA y visualizacion                      # Archivo ipynb con el análisis EDA y visualización de gráficos del estudio realizado.
 
 ## 🛠️ Instalación y Requisitos
