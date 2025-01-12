@@ -34,4 +34,9 @@ Este proyecto usa Python 3.9.6 y se han utilizado las siguientes librerías:
 
 ## 📊 Resultados y Conclusiones
 
+## 🔄 Próximos Pasos
+
+## ✒️ Autor
+- **Gonzalo Julián** - [@gonzalo8julian](https://github.com/Gonzalo8julian)
+
 
