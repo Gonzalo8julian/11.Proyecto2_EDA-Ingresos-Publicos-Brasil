@@ -17,7 +17,7 @@ Aunque carecemos de información para poder sacar conclusiones 100% fiables, hem
 
 ## 🗂️ Estructura del Proyecto
 
-├── Data/                      # Enlace a google Drive con todos los datos en csv.
+├── Data/                      # Enlace a google Drive con todos los datos en csv: https://drive.google.com/drive/folders/1na4t8B6wNNNnVZuuJK9elX4NOwziGcli?usp=sharing
 
 ├──1PROYECTO2_limpiezadatos/                       # archivo ipynb donde se han limpiado los datos de las bases de datos de cada año por separado.
 
@@ -34,7 +34,21 @@ Este proyecto usa Python 3.9.6 y se han utilizado las siguientes librerías:
 
 ## 📊 Resultados y Conclusiones
 
+> Resumen de hallazgos:
+
+Las categorías con mayor discrepancia entre lo previsto y lo realizado son: Receitas de capital y Receitas corriendes, donde podemos ver que hay una mayor cantidad de ingresos frente al resto de categorías y donde, además, vemos que la diferencia entre los ingresos previstos y realizados es de 640183814296.71 y 2078616751140.80 respectivamente. Lo cuál quiere decir que hay mucho dinero que se preveía ingresar por parte del gobierno y, o bien no se ha ingresado por algún motivo, o bien no se ha demostrado.
+
+En cuanto a los periodos temporales, podemos decir que, excepto el año 2020, que se superó el total de ingresos frente a lo previsto, el resto de años hay una gran diferencia entre lo previsto y lo recaudado. Destacando sobre todo los años 2017 y 2018 que es donde más diferencia hay entre unos ingresos y otros. 
+
+Como hemos comentado anteriormente, estas consecuencias pueden venir dadas por numerosas causas, como pueden ser, alguna crisis económica en el país, alguna catástrofe que haya afectado al pais o, incluso, motivos de fraude fiscal, donde los integrantes del gobierno de Brasil se hayan quedado con ese dinero que, supuestamente, se preveía recibir.
+
+También puede darse por un error a la hora de hacer las previsiones, ya que es un error bastante grande y no se ha conseguido lo previsto en prácticamente ningún año del estudio. Es cierto que no es fácil acertar al 100% pero seguramente la diferencia podría ser menor de lo que realmente es.
+
 ## 🔄 Próximos Pasos
+
+En primer lugar, una propuesta de mejora de cara al futuro es intentar controlar las fechas en las que se realizan los ingresos, ya que, como hemos comentado en el análisis temporal, no podemos sacar muchas conclusiones por meses, ya que las fechas que aparecen se concenctran todas en un día y mes del año. Sería bueno, intentar tener información lo más real posible para poder analizar la situación de los ingresos a lo largo de los meses de cada año y así poder sacar conclusiones más fiables. 
+
+Por otro lado, habría que hacer un gran hincapié en la manera de calcular los ingresos previstos ya que, en el caso de no ser un fraude fiscal, está claro que se lleva haciendo mal muchos años y es algo bastante importante para el gobierno del país.
 
 ## ✒️ Autor
 - **Gonzalo Julián** - [@gonzalo8julian](https://github.com/Gonzalo8julian)

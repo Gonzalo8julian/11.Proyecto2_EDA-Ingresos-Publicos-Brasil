@@ -72,25 +72,25 @@ Los problemas concretos que te han pedido resolver son:
 
 1. **Distribución de Ingresos por Categoría Económica:**
 
-   - Analizar las categorías de ingresos más significativas y su participación en los ingresos totales.
+   - Analizar las categorías de ingresos más significativas y su participación en los ingresos totales. **OK**
 
-   - Calcular la diferencia promedio entre ingresos previstos y realizados por cada categoría.
+   - Calcular la diferencia promedio entre ingresos previstos y realizados por cada categoría. **OK**
 
 2. **Análisis Temporal:**
 
-   - Evaluar las tendencias a lo largo del tiempo, por ejemplo, cómo cambian los ingresos realizados de un mes a otro o de un año a otro.
+   - Evaluar las tendencias a lo largo del tiempo, por ejemplo, cómo cambian los ingresos realizados de un mes a otro o de un año a otro. **OK**
 
 3. **Identificación de Discrepancias:**
 
-   - Investigar las categorías con mayor diferencia entre lo previsto y lo realizado, identificando patrones en la subejecución o sobre ejecución.
+   - Investigar las categorías con mayor diferencia entre lo previsto y lo realizado, identificando patrones en la subejecución o sobre ejecución. **OK**
 
 ## Fase 4: Visualización de Datos
 
 1. **Gráficos de Barras y Líneas:**
 
-   - Crear gráficos que muestren la comparación entre ingresos previstos, lanzados y realizados para cada categoría.
+   - Crear gráficos que muestren la comparación entre ingresos previstos, lanzados y realizados para cada categoría. **OK**
 
-   - Graficar la evolución temporal de los ingresos realizados y previstos.
+   - Graficar la evolución temporal de los ingresos realizados y previstos. **OK**
 
 2. **Diagramas de Caja:**
 
